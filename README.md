@@ -12,4 +12,4 @@ Feedback gains are selected randomly, but it works surprisingly well.
 
 #### Instruction
 To run the program,
-`python randomRL`
+`python randomRL.py`
